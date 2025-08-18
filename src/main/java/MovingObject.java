@@ -63,7 +63,7 @@ public class MovingObject {
             // ((obj.x - x)/distance)=xcomponet of force
             obj.ddx -= factor * (obj.x - x) / (distance*obj.mass);
             obj.ddy -= factor * (obj.y - y) / (distance*obj.mass);
-            // -=, Isaac's 3ed law
+            // -= 
         }
     }
     public returnVect calcCollison(MovingObject obj) {
