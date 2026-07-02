@@ -4,6 +4,6 @@
 
 - Update (July 2026): Tested On JDK 11, JDK 17, JDK 22, All Compiled And Ran Correctly On x64 And ARM64 (Debian) 
 - Build With These Steps: <br> 
-`javac Main.java` 
+`javac Main.java` <br> 
 `java Main` 
 - Cheers 
